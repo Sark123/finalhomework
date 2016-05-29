@@ -1,0 +1,26 @@
+@charset "utf-8" ;
+#a  {
+	position:static;
+	background-color:#cc1111;
+	width:300px;
+	height:100px;
+	margin: auto ;
+}
+
+.dropdown{
+	display:none;
+	text-align:center;
+}
+#a:hover  #dropdown{
+	display:block;
+}
+a{
+	display:block;
+	width:150px;
+	height:60px;
+	background-color:#eee;
+	margin-bottom:5px;
+	z-index:-100;
+	text-decoration:none;
+	padding-top:10px;
+}
