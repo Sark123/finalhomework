@@ -89,6 +89,12 @@ ul{
 	margin-top:1%;
 	margin-bottom:2%;
 }
+.pictureF{
+	float:right;
+	padding-left:15px;
+	margin-top:1%;
+	margin-bottom:2%;
+}
 .picture3{
 	padding-left:;
 	margin-top:1%;
@@ -218,6 +224,12 @@ h1{
 	}
 	.pictureE{
 	display:none;
+	}
+	.picture1{
+	float:right;
+	padding-left:15px;
+	margin-top:1%;
+	margin-bottom:2%;
 	}
 	.hide123{
 		padding-top:1%;
